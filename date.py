@@ -1,5 +1,5 @@
 # Caiden Plummer
-# This tells you the date.
+# Gets the current datetime and prints it to the screen.
 # date.py
 
 import datetime
